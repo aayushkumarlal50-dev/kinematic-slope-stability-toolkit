@@ -1,0 +1,39 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / secret files
+.env
+.envrc
+.streamlit/secrets.toml
+
+# Build / packaging output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test / coverage / tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
